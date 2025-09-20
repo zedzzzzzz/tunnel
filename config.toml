@@ -1,0 +1,7 @@
+[config]
+mode = "agent"
+type = "tcp"
+ports = [
+    "8088:8080",
+    "9001:9000",
+]
